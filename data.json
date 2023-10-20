@@ -1,0 +1,156 @@
+[
+    {
+        "id": 529,
+        "microinversor": 5,
+        "voltaje_entrada": "29.06250",
+        "voltaje_salida": "58.12500",
+        "corriente_entrada": "9.68750",
+        "corriente_salida": "14.53120",
+        "potencia_entrada": "281.54300",
+        "potencia_salida": "844.62890",
+        "fecha": "2023-08-01T08:13:01.001622-05:00"
+    },
+    {
+        "id": 530,
+        "microinversor": 5,
+        "voltaje_entrada": "29.12500",
+        "voltaje_salida": "58.25000",
+        "corriente_entrada": "9.70830",
+        "corriente_salida": "14.56250",
+        "potencia_entrada": "282.75520",
+        "potencia_salida": "848.26560",
+        "fecha": "2023-08-01T08:13:12.254970-05:00"
+    },
+    {
+        "id": 531,
+        "microinversor": 5,
+        "voltaje_entrada": "29.12500",
+        "voltaje_salida": "58.25000",
+        "corriente_entrada": "9.70830",
+        "corriente_salida": "14.56250",
+        "potencia_entrada": "282.75520",
+        "potencia_salida": "848.26560",
+        "fecha": "2023-08-01T08:13:23.289503-05:00"
+    },
+    {
+        "id": 532,
+        "microinversor": 5,
+        "voltaje_entrada": "29.18750",
+        "voltaje_salida": "58.37500",
+        "corriente_entrada": "9.72920",
+        "corriente_salida": "14.59380",
+        "potencia_entrada": "283.97000",
+        "potencia_salida": "851.91020",
+        "fecha": "2023-08-01T08:14:59.732097-05:00"
+    },
+    {
+        "id": 533,
+        "microinversor": 5,
+        "voltaje_entrada": "29.25000",
+        "voltaje_salida": "58.50000",
+        "corriente_entrada": "9.75000",
+        "corriente_salida": "14.62500",
+        "potencia_entrada": "285.18750",
+        "potencia_salida": "855.56250",
+        "fecha": "2023-08-01T08:15:15.951060-05:00"
+    },
+    {
+        "id": 534,
+        "microinversor": 5,
+        "voltaje_entrada": "29.25000",
+        "voltaje_salida": "58.50000",
+        "corriente_entrada": "9.75000",
+        "corriente_salida": "14.62500",
+        "potencia_entrada": "285.18750",
+        "potencia_salida": "855.56250",
+        "fecha": "2023-08-01T08:15:37.098618-05:00"
+    },
+    {
+        "id": 535,
+        "microinversor": 5,
+        "voltaje_entrada": "29.31250",
+        "voltaje_salida": "58.62500",
+        "corriente_entrada": "9.77080",
+        "corriente_salida": "14.65620",
+        "potencia_entrada": "286.40750",
+        "potencia_salida": "859.22270",
+        "fecha": "2023-08-01T08:15:56.010591-05:00"
+    },
+    {
+        "id": 536,
+        "microinversor": 5,
+        "voltaje_entrada": "29.25000",
+        "voltaje_salida": "58.50000",
+        "corriente_entrada": "9.75000",
+        "corriente_salida": "14.62500",
+        "potencia_entrada": "285.18750",
+        "potencia_salida": "855.56250",
+        "fecha": "2023-08-01T08:16:13.359662-05:00"
+    },
+    {
+        "id": 537,
+        "microinversor": 5,
+        "voltaje_entrada": "29.31250",
+        "voltaje_salida": "58.62500",
+        "corriente_entrada": "9.77080",
+        "corriente_salida": "14.65620",
+        "potencia_entrada": "286.40750",
+        "potencia_salida": "859.22270",
+        "fecha": "2023-08-01T08:16:32.183061-05:00"
+    },
+    {
+        "id": 538,
+        "microinversor": 5,
+        "voltaje_entrada": "29.37500",
+        "voltaje_salida": "58.75000",
+        "corriente_entrada": "9.79170",
+        "corriente_salida": "14.68750",
+        "potencia_entrada": "287.63020",
+        "potencia_salida": "862.89060",
+        "fecha": "2023-08-01T08:16:53.941455-05:00"
+    },
+    {
+        "id": 541,
+        "microinversor": 5,
+        "voltaje_entrada": "32.68750",
+        "voltaje_salida": "65.37500",
+        "corriente_entrada": "10.89580",
+        "corriente_salida": "16.34380",
+        "potencia_entrada": "356.15750",
+        "potencia_salida": "1068.47300",
+        "fecha": "2023-08-01T08:18:25.856800-05:00"
+    },
+    {
+        "id": 542,
+        "microinversor": 5,
+        "voltaje_entrada": "32.43750",
+        "voltaje_salida": "64.87500",
+        "corriente_entrada": "10.81250",
+        "corriente_salida": "16.21880",
+        "potencia_entrada": "350.73050",
+        "potencia_salida": "1052.19100",
+        "fecha": "2023-08-01T08:18:36.779427-05:00"
+    },
+    {
+        "id": 543,
+        "microinversor": 5,
+        "voltaje_entrada": "32.18750",
+        "voltaje_salida": "64.37500",
+        "corriente_entrada": "10.72920",
+        "corriente_salida": "16.09380",
+        "potencia_entrada": "345.34500",
+        "potencia_salida": "1036.03500",
+        "fecha": "2023-08-01T08:18:47.769582-05:00"
+    },
+    {
+        "id": 544,
+        "microinversor": 5,
+        "voltaje_entrada": "32.00000",
+        "voltaje_salida": "64.00000",
+        "corriente_entrada": "10.66670",
+        "corriente_salida": "16.00000",
+        "potencia_entrada": "341.33340",
+        "potencia_salida": "1024.00000",
+        "fecha": "2023-08-01T08:18:58.665221-05:00"
+    }
+]
